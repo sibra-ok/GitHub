@@ -1,0 +1,8 @@
+
+input{width:500px;margin-left: auto;margin-right: 0;}
+.nav{display:flex;align-content: center;margin-left: auto;margin-right: auto;}
+button{background-color: rgb(140, 36, 238);color: white;margin-left: 0;margin-right: auto;}
+h2{text-align: center;}
+#id{text-align: center;margin-left: auto;margin-right: auto;}
+#found{text-align: center;margin-left: auto;margin-right: auto;color: brown;}
+#notfound{text-align: center;margin-left: auto;margin-right: auto;color:Green;}
